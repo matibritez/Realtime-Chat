@@ -1,5 +1,4 @@
 import React from 'react';
-import add from '../img/addAvatar.png'
 
 const Login = () => {
   return (
