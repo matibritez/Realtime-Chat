@@ -1,6 +1,6 @@
 import React from "react";
 import Sidebar from "../components/Sidebar";
-import Chat from "../components/Chats";
+import Chat from "../components/Chat";
 import "../styles.scss";
 
 

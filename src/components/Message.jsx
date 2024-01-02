@@ -1,7 +1,9 @@
+import React from "react"
+
 const Message =() =>{
   return (
-    <div className="home">
-        
+    <div className="message">
+        Message
     </div>
   )
 }
